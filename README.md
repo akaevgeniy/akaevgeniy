@@ -1,8 +1,12 @@
 ## Привет всем, меня зовут Евгений! 👋
 
-### Мой стек
+-
 
-### Моя статистика
+### 💻 Мой стек
+
+![Java Script](https://img.icons8.com/color/96/000000/css.png 'Заголовок изображения')
+
+### 🏆 Моя статистика
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaevgeniy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
