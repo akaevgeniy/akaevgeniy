@@ -4,7 +4,8 @@
 
 ### 💻 Мой стек
 
-![Java Script](https://img.icons8.com/color/96/000000/css.png 'Заголовок изображения')
+![CSS](https://img.icons8.com/color/96/000000/css.png 'CSS')
+![Java Script](https://img.icons8.com/color/96/000000/javascript--v2.png 'JS')
 
 ### 🏆 Моя статистика
 
