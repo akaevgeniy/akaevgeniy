@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&logoWidth=0"/> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoWidth=0"/> <img src="https://img.shields.io/badge/-Sourcetree-0052CC?logo=sourcetree&logoColor=white&logoWidth=0"/> <img src="https://img.shields.io/badge/-React Router Dom-CA4245?logo=reactrouter&logoColor=white&logoWidth=0"/> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&logoWidth=0"/> <img src="https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=white&logoWidth=0"/> <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=0"/>
 
 ### Мой codewars
-[https://www.codewars.com/users/akaevgeniy/badges/large?theme=light](https://www.codewars.com/users/akaevgeniy/badges/large?theme=light)
+<img src="https://www.codewars.com/users/akaevgeniy/badges/large?theme=light"/>
 
 ### 🏆 Моя статистика
 
